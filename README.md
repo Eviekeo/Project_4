@@ -19,4 +19,4 @@ Four regression models were used and assessed
 4. knn regression
 
 Random forest regression was assessed to be the best model, as it had the lowest mean squared error and highest R-squared score:
-
+![Model Evaluation](Images/model_score.png)
